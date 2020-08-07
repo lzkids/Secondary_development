@@ -22,3 +22,13 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+功能：
+
+- [ ] 登录页面
+
+- [ ] 主页面
+
+- [ ] 404页面
+
+  未完......
+
